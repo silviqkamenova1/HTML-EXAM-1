@@ -1,0 +1,48 @@
+.section-columns{
+
+}
+
+.section-columns .container{
+    padding: 32px;
+}
+
+.section-columns .section-header{
+    text-align: center;
+}
+
+.section-columns h3 span{
+    display: block;
+    margin: 16px auto;
+    width: 5ch;
+    height: 2px;
+    background-color: #D01919;
+}
+
+.section-columns .section-content{
+    display: flex;
+gap: 32px;
+}
+
+.section-columns .section-content article{
+    flex: 1 1 30%;
+    text-align: center;
+}
+
+.section-features{
+background: #fff;
+}
+
+.section-features img{
+    width: 15%;
+    margin: 0 auto;
+}
+
+/* .section-columns */
+
+.section-features h4{
+    color: #D01919;
+}
+
+.section-coaches h5{
+    color: #D01919;
+}

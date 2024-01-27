@@ -1,0 +1,31 @@
+.section-hero-banner{
+    /* background: #000; */
+    color: #fff;
+    font-size: 1.2em;
+}
+
+.section-hero-banner a{
+ color: #fff;   
+}
+
+.section-hero-banner .container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 64px 32px;
+    height: 30em;
+}
+
+.section-hero-banner h2{
+    font-size: 48px;
+    font-weight: normal;
+    letter-spacing: 0.2em;
+}
+
+/* to made text to be on one or three rows and to be centered */
+.section-hero-banner .container p{
+    max-width: 54ch;
+    text-align: center;
+    margin: 16px 0;
+}
